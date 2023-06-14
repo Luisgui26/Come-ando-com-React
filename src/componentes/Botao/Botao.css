@@ -8,10 +8,10 @@
     cursor: pointer;
     color: #FFF;
     margin: 32px 0;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.2);;
     transition: transform 0.3s;
 }
 
 .botao:hover{
-    color: #95FFD4;
     transform: translateY(-7px);
 }
